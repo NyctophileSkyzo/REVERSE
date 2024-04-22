@@ -1,7 +1,7 @@
 class hello:
     def print_hello(self):
         print("""
-  Source Obfuscated with Dat Vuong
+  Source Obfuscated with Chimera
        The lost Source - KEY
 
 """)
